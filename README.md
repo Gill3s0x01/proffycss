@@ -79,7 +79,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 # :bug: Issues
 
-Sinta -se a vontade **registra um novo problema** com um título e descrição respectivo no repositório [Proffy](https://github.com/Gilles30/Proffy-css/issues). Se você ja encontrou uma solução para seu problema, **adoraria revisar sua solicitação de pull request**!
+Sinta -se a vontade para **registrar um novo problema** com um título e descrição respectivo no repositório [Proffy](https://github.com/Gilles30/Proffy-css/issues). Se você ja encontrou uma solução para seu problema, **adoraria revisar sua solicitação de pull request**!
 
 ---
 
