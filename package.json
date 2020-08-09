@@ -1,5 +1,5 @@
 {
-  "name": "proffy-discovery",
+  "name": "proffy-css",
   "version": "1.0.0",
   "description": "<h3 align=\"center\">   *🚧 Em construção 🚧* </h3>",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guilhermecapitao/proffy-discovery.git"
+    "url": "git+https://github.com/Gilles30/proffy-css.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guilhermecapitao/proffy-discovery/issues"
+    "url": "https://github.com/Gilles30/proffy-css/issues"
   },
-  "homepage": "https://github.com/guilhermecapitao/proffy-discovery#readme",
+  "homepage": "https://github.com/Gilles30/proffy-css#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
