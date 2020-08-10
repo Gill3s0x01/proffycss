@@ -36,6 +36,8 @@
    <img src="./.github/web-landing.png" width="400px">
 </p>
 
+Youtube: https://www.youtube.com/watch?v=PRjprCkuFjY
+
 ---
 
 ## 📖 Sobre 
