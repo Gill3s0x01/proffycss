@@ -6,18 +6,18 @@
    <a href="https://www.linkedin.com/in/lorison-gilles/">
       <img alt="Lorison Gilles" src="https://img.shields.io/badge/-LorisonGilles-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/proffy-css?color=774DD6">
-  <a href="https://github.com/Gilles30/proffy-css/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/proffy-css?color=774DD6">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Gilles30/proffycss?color=774DD6">
+  <a href="https://github.com/Gilles30/proffycss/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Gilles30/proffycss?color=774DD6">
   </a> 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-8257E5">
-  <a href="https://github.com/Gilles30/proffy-css/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gilles30/proffy-css?color=8257E5&logo=github">
+  <a href="https://github.com/Gilles30/proffycss/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/Gilles30/proffycss?color=8257E5&logo=github">
   </a>
 </p>
 <div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/Gilles30/proffy-css)](https://github.com/Gilles30/proffy-css/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/Gilles30/proffy-css)](https://github.com/Gilles30/proffy-css/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Gilles30/proffy-css)](https://github.com/Gilles30/proffy-css/network)
+[![GitHub stars](https://img.shields.io/github/stars/Gilles30/proffycss)](https://github.com/Gilles30/proffycss/stargazers)<space> <space>[![GitHub license](https://img.shields.io/github/license/Gilles30/proffycss)](https://github.com/Gilles30/proffycss/blob/master/LICENSE)<space> <space>[![GitHub forks](https://img.shields.io/github/forks/Gilles30/proffycss)](https://github.com/Gilles30/proffycss/network)
 
 </div>
 
@@ -63,7 +63,7 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/Gilles30/proffy-css
+git clone https://github.com/Gilles30/proffycss
 
 # Entrar no diretório
 cd proffy-css
@@ -79,7 +79,7 @@ Feito isso, abra o seu navegador e acesse `http://localhost:5500/`
 
 # :bug: Issues
 
-Sinta -se a vontade para **registrar um novo problema** com um título e descrição respectivo no repositório [Proffy](https://github.com/Gilles30/Proffy-css/issues). Se você ja encontrou uma solução para seu problema, **adoraria revisar sua solicitação de pull request**!
+Sinta -se a vontade para **registrar um novo problema** com um título e descrição respectivo no repositório [Proffy](https://github.com/Gilles30/Proffycss/issues). Se você ja encontrou uma solução para seu problema, **adoraria revisar sua solicitação de pull request**!
 
 ---
 
